@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "321622915677",
+    "firebase_url": "https://tring-71c87-default-rtdb.firebaseio.com",
+    "project_id": "tring-71c87",
+    "storage_bucket": "tring-71c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321622915677:android:e95ff54e3b091a65102bb4",
+        "android_client_info": {
+          "package_name": "com.example.facial_re"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpV31GEPO7S7-9yQ9jTRX3605n95drKR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
